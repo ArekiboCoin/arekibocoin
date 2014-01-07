@@ -1,9 +1,9 @@
-Building BarCoin
+Building Arekibocoin
 
-See doc/readme-qt.rst for instructions on building barcoin-qt,
+See doc/readme-qt.rst for instructions on building arekibocoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of BarCoin.
+implementation of Arekibocoin.
 
-See doc/build-*.txt for instructions on building barcoin,
+See doc/build-*.txt for instructions on building arekibocoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of BarCoin.
+implementation of Arekibocoin.
